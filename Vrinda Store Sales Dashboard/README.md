@@ -21,4 +21,4 @@ The Vrinda Store wants to create an annual sales report for 2025. So that, the o
 To improve the sales of Vrinda Store in 2026, the business must target **women customers of the age group (30-49 yrs)** living in **Maharashtra, Karnataka, and Uttar Pradesh** by showing targeted ads/offers/coupons on **Amazon, Flipkart, and Myntra**.
 
 ## Dashboard Preview
-![Dashboard Screenshot](Vrinda%20Store%20Sales%20Dashboard.jpg) 
+![Dashboard Screenshot](Vrinda%20Store%20Sales%20Dashboard.png) 
